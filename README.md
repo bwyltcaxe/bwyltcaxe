@@ -6,7 +6,7 @@
 
 GCC-compiler engineer, embedded  developer and MIPT student
 
-**Work:** Embedded developer at Aquarius
+**Work:** PostgreSQL developer
 
 **Github:** [https://github.com/bwyltcaxe](https://github.com/bwyltcaxe)
 

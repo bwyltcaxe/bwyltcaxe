@@ -14,4 +14,4 @@ GCC-compiler engineer, embedded  developer and MIPT student
 
 **Telegram:** @exactlywb
 
-**Mail:** frolov.da@phystech.su
+**Mail:** frolov.da.ne@gmail.com

@@ -4,13 +4,13 @@
 >
 > **Stanisław Lem**
 
-GCC-compiler engineer, embedded  developer and MIPT student
+GCC internals, embedded and PostgreSQL developer. MIPT graduated.
 
 **Work:** PostgreSQL developer
 
 **Github:** [https://github.com/bwyltcaxe](https://github.com/bwyltcaxe)
 
-**LinkedIn:** [https://linkedin.com/in/exactlywb](https://linkedin.com/in/exactlywb)
+**LinkedIn:** [https://linkedin.com/in/exactlywb](https://linkedin.com/in/exactlywb) (currently unavailable)
 
 **Telegram:** @exactlywb
 
